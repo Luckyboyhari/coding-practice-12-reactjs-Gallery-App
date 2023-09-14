@@ -1,0 +1,37 @@
+/* Write your code here. */
+
+.bg-con {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
+
+.image {
+  width: 1100px;
+  height: 400px;
+}
+
+.heading {
+  font-size: 30px;
+  color: #1e293b;
+}
+
+.para {
+  font-size: 15px;
+  color: #64748b;
+  font-weight: bold;
+}
+
+.unOrder-list {
+  list-style-type: none;
+  display: flex;
+}
